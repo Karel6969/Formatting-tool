@@ -32,7 +32,7 @@ This is software created for practical research work. The software is not perfec
 
 !SOFTWARE LIMITATIONS!:
 
-1.The software may experience formatting issues if the document is not created by the user and contains various Word styles that strictly enforce certain formatting rules — the software may not be able to override these rules.
+1. The software may experience formatting issues if the document is not created by the user and contains various Word styles that strictly enforce certain formatting rules — the software may not be able to override these rules.
 2. The automatic table of contents detects headings in the document and formats them accordingly. However, due to the lack of page detection capability, placeholder numbers are added behind the headings, which do not reflect the actual location of the heading and therefore need to be manually adjusted.
 3. The automatic table of contents may not recognize numbers in front of headings if they are automatically numbered.
 4. Currently, the software does not take the sources and appendices pages into account, meaning their formatting must be manually reviewed, as the formatting rules for these sections differ from the rest of the document.
