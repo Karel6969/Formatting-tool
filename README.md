@@ -31,6 +31,7 @@ Siit on võimalik, tarkvara katsetamiseks allalaadida docx-formaadis fail "TestF
 7. Title alignment - pealkirja joondus
 8. Top, Bottom margin - üla- ja alaserva marginaal(cm)
 9. Left, Right margin - vasaku ja parema serva marginaal(cm)
+10. TOC(Table of Contents) - sisukord
 
 This is software created for practical research work. The software is not perfect, and errors may occur during its use.
 
