@@ -7,6 +7,7 @@ Erinevad osad nagu sissejuhatus, resümee, allikad ja lisad peavad olema neile m
 2. Uue lehe loomiseks kasutada toimingut "Page", mitte klahvi "Enter". Klahvi "Enter" kasutades võivad elemedid dokumendis nihkuda, peale tarkvara kasutamist.
 3. Automaatset sisukorda kasutades, peaksid automaatselt nummerdatud pealkirjad, hõlmama endas kogu pealkirja mitte ainult numbrit. See tähendab, et kogu pealkiri on stiilis "Listed Paragraph", mitte ainult number.
 4. Peatüki pealkirjad võiksid olla juba enne tarkvara kasutamist suuremad kui alapeatüki omad, sest tarkvara ainult säilitab nende suuruse vahet, mitte ei muuda neid automaatselt.
+5. Arvude sisestamisel kasutada punkte mitte komasid.
 
 
 !TARKVARA PUUDUJÄÄGID!:
@@ -21,6 +22,16 @@ Erinevad osad nagu sissejuhatus, resümee, allikad ja lisad peavad olema neile m
 
 Siit on võimalik, tarkvara katsetamiseks allalaadida docx-formaadis fail "TestFile", mis on sarnane uurimustöö vormistusega.
 
+1. Font - font
+2. Font size - fondi suurus(pt)
+3. Line spacing - reavahe(lines)
+4. Paragraph spacing - lõiguvahe(pt)
+5. Title spacing - pealkirja lõiguvahe(pt)
+6. Text alignment - sisu joondus
+7. Title alignment - pealkirja joondus
+8. Top, Bottom margin - üla- ja alaserva marginaal(cm)
+9. Left, Right margin - vasaku ja parema serva marginaal(cm)
+
 This is software created for practical research work. The software is not perfect, and errors may occur during its use.
 
 !ATTENTION WHEN USING!:
@@ -29,6 +40,7 @@ This is software created for practical research work. The software is not perfec
 2. To create a new page, use the "Page" function instead of the "Enter" key. Using the "Enter" key may cause elements in the document to shift after using the software.
 3. When using the automatic table of contents, automatically numbered headings should include the entire heading, not just the number. This means the entire heading should be in the "Listed Paragraph" style, not just the number.
 4. Chapter headings should already be larger than subchapter headings before using the software, as the software only preserves the size difference rather than adjusting it automatically.
+5. When entering numbers, use periods instead of commas.
 
 !SOFTWARE LIMITATIONS!:
 
