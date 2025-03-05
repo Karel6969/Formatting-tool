@@ -16,7 +16,7 @@ Erinevad osad nagu sissejuhatus, resümee, allikad ja lisad peavad olema neile m
 2. Automaatne sisukord leiab tööst pealkirjad ja vormistab need sisukorrana, kuid lehekülgede tuvastamise võimaluse puudumise tõttu on pandud pealkirjade taha asendusnumbrid, mis ei peegelda tegelikkuses pealkirja asukohta, seega vajavad need manuaalset muutmist.
 3. Automaatne sisukord ei pruugi tuvastada numbreid pealkirjade ees kui pealkirjad on automaatselt nummerdatud.
 4. Tarkvara ei arvesta hetke seisuga allikate ja lisade lehega ning nende osade vormistus tuleb manuaalselt üle vaadata, sest nende osade vormistusreeglid erinevad ülejäänud dokumendi omadest.
-5. Tarkvara ainult säilitab peatüki ja alapeatüki fondi suuruse vahet, mis juba eksisteerib, mitte ei muuda seda automaatselt. Ainus patükk, mis on alati suurem on automaatne sisukord.
+5. Tarkvara ainult säilitab peatüki ja alapeatüki fondi suuruse vahet, mis juba eksisteerib, mitte ei muuda seda automaatselt. Ainus peatükk, mis on alati suurem on automaatne sisukord.
 
 !LISA!:
 
